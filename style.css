@@ -14,6 +14,10 @@
     --cor3: #EA00FA;
     --cor4: #eb40b5;
 
+    --cor5:#8C52FF;
+    --cor6:#CB6CE6;
+    --cor7:#DA78F6;
+
     --fonte1: 'Montserrat', sans-serif;
     --fonte2: 'Righteous', cursive;
     --fonte3: 'Sarala', sans-serif;
@@ -36,7 +40,7 @@ a.externo::after{
 
 header{
     padding-top: 20px;
-    background: var(--cor1);
+    background: linear-gradient(to left, var(--cor5) , var(--cor6));
     margin: auto;
     min-height: 97px;
     text-align: center;
