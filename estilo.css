@@ -140,11 +140,11 @@ footer {
     border-top-right-radius: 5px;
     padding: 7px;
     text-align: center;
-    background-color: var(--cor2);
+    
 }
 
 footer p {
     font-size: 15px;
     font-family: var(--fonte1);
-    color: white;
+    color: rgb(163, 148, 148);
 }
