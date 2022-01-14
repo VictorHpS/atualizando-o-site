@@ -80,9 +80,7 @@ nav > a{
     color: white;
     font-size: 23px;
     font-family: var(--fonte2);
-    gap: 30px;
-    margin: 5px;
-    padding: 10px 12px;
+    padding: 6px 18px;
     transition-duration: 0.5s;
 }
 
