@@ -56,7 +56,9 @@ header{
 }
 
 picture > img{
-    width: 40px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    width: 35px;
 }
 nav{
     padding-right: 20px;
